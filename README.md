@@ -1,7 +1,7 @@
 # Simple-Games
 This repo contains some simple games developed by me using python and the graphics.py module
 
-I created all of these nearly 1.5 - 2 years ago, back when I didn't follow proper code formatting techniques. Now, I don't remember the function of every line, and thus modifying the code may make it crash. So I couldn't implement proper formatting even now.
+I created all of these at around the beginning of 2020, back when I didn't follow proper code formatting techniques. Now, I don't remember the function of every line, and thus modifying the code may make it crash. So I couldn't implement proper formatting even now.
 
 The games here are:
 
